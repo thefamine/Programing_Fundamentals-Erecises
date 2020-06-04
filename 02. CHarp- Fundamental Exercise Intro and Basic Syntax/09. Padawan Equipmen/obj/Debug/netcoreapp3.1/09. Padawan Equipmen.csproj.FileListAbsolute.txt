@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\bin\Debug\netcoreapp3.1\09. Padawan Equipmen.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\obj\Debug\netcoreapp3.1\09. Padawan Equipmen.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\obj\Debug\netcoreapp3.1\09. Padawan Equipmen.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\obj\Debug\netcoreapp3.1\09. Padawan Equipmen.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\obj\Debug\netcoreapp3.1\09. Padawan Equipmen.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\09. Padawan Equipmen\obj\Debug\netcoreapp3.1\09. Padawan Equipmen.pdb

@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.pdb

@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\bin\Debug\netcoreapp3.1\15. Messages.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\bin\Debug\netcoreapp3.1\15. Messages.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\bin\Debug\netcoreapp3.1\15. Messages.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\bin\Debug\netcoreapp3.1\15. Messages.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\bin\Debug\netcoreapp3.1\15. Messages.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\bin\Debug\netcoreapp3.1\15. Messages.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\obj\Debug\netcoreapp3.1\15. Messages.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\obj\Debug\netcoreapp3.1\15. Messages.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\obj\Debug\netcoreapp3.1\15. Messages.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\obj\Debug\netcoreapp3.1\15. Messages.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. CHarp- Fundamental Exercise Intro and Basic Syntax\15. Messages\obj\Debug\netcoreapp3.1\15. Messages.pdb

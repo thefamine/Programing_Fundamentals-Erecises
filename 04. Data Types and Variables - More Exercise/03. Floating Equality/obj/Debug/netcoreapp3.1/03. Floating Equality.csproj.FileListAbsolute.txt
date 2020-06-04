@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.pdb

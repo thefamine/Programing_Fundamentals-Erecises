@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.pdb

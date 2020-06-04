@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\01. Integer Operations.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - Exercise\04. Data Types and Variables - Exercise\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb

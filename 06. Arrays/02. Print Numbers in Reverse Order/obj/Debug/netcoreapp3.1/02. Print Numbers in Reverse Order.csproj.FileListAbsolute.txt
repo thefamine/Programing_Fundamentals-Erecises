@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\06. Arrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb

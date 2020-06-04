@@ -1,0 +1,10 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\bin\Debug\netcoreapp3.1\01. Data Type Finder.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\bin\Debug\netcoreapp3.1\01. Data Type Finder.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\bin\Debug\netcoreapp3.1\01. Data Type Finder.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\bin\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\obj\Debug\netcoreapp3.1\01. Data Type Finder.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Data Types and Variables - More Exercise\04. Data Types and Variables - More Exercise\obj\Debug\netcoreapp3.1\01. Data Type Finder.pdb

@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\03. Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csprojAssemblyReference.cache
