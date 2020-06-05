@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.pdb
