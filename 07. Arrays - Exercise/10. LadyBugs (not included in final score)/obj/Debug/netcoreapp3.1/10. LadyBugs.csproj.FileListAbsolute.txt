@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\bin\Debug\netcoreapp3.1\10. LadyBugs.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\bin\Debug\netcoreapp3.1\10. LadyBugs.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\bin\Debug\netcoreapp3.1\10. LadyBugs.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\bin\Debug\netcoreapp3.1\10. LadyBugs.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\obj\Debug\netcoreapp3.1\10. LadyBugs.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\obj\Debug\netcoreapp3.1\10. LadyBugs.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\07. Arrays - Exercise\10. LadyBugs (not included in final score)\obj\Debug\netcoreapp3.1\10. LadyBugs.pdb

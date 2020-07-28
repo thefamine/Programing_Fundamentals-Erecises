@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.pdb

@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\bin\Debug\netcoreapp3.1\11. Array Manipulator2.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\bin\Debug\netcoreapp3.1\11. Array Manipulator2.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\bin\Debug\netcoreapp3.1\11. Array Manipulator2.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\bin\Debug\netcoreapp3.1\11. Array Manipulator2.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\bin\Debug\netcoreapp3.1\11. Array Manipulator2.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\bin\Debug\netcoreapp3.1\11. Array Manipulator2.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\obj\Debug\netcoreapp3.1\11. Array Manipulator2.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\obj\Debug\netcoreapp3.1\11. Array Manipulator2.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\obj\Debug\netcoreapp3.1\11. Array Manipulator2.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\obj\Debug\netcoreapp3.1\11. Array Manipulator2.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\11. Array Manipulator2\obj\Debug\netcoreapp3.1\11. Array Manipulator2.pdb

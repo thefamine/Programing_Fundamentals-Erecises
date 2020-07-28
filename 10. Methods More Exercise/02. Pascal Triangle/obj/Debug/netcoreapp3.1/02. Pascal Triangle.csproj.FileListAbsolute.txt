@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.pdb

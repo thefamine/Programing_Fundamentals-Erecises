@@ -3,7 +3,7 @@ Write a program to find all the top integers in an array. A top integer is an in
 */
 using System;
 using System.Linq;
-
+ 
 namespace _05._Top_Integers
 {
     class Program

@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\bin\Debug\netcoreapp3.1\02. Second.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\bin\Debug\netcoreapp3.1\02. Second.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\bin\Debug\netcoreapp3.1\02. Second.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\bin\Debug\netcoreapp3.1\02. Second.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\bin\Debug\netcoreapp3.1\02. Second.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\bin\Debug\netcoreapp3.1\02. Second.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\obj\Debug\netcoreapp3.1\02. Second.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\obj\Debug\netcoreapp3.1\02. Second.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\obj\Debug\netcoreapp3.1\02. Second.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\obj\Debug\netcoreapp3.1\02. Second.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\02. Second\obj\Debug\netcoreapp3.1\02. Second.pdb

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\09. Kamino Factory (not included in final score)\\09. Kamino Factory (not included in final score).csproj",
-      "projectName": "09. Kamino Factory (not included in final score)",
-      "projectPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\09. Kamino Factory (not included in final score)\\09. Kamino Factory (not included in final score).csproj",
+      "projectUniqueName": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\09. Kamino Factory (not included in final score)\\09. Kamino Factory.csproj",
+      "projectName": "09. Kamino Factory",
+      "projectPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\09. Kamino Factory (not included in final score)\\09. Kamino Factory.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
       "outputPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\09. Kamino Factory (not included in final score)\\obj\\",
       "projectStyle": "PackageReference",

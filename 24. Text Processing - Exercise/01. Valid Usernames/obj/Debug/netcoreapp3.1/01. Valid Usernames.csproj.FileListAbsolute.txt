@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\24. Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.pdb

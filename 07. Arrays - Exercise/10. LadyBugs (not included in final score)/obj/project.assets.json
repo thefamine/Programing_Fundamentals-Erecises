@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\10. LadyBugs (not included in final score)\\10. LadyBugs (not included in final score).csproj",
-      "projectName": "10. LadyBugs (not included in final score)",
-      "projectPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\10. LadyBugs (not included in final score)\\10. LadyBugs (not included in final score).csproj",
+      "projectUniqueName": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\10. LadyBugs (not included in final score)\\10. LadyBugs.csproj",
+      "projectName": "10. LadyBugs",
+      "projectPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\10. LadyBugs (not included in final score)\\10. LadyBugs.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
       "outputPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\07. Arrays - Exercise\\10. LadyBugs (not included in final score)\\obj\\",
       "projectStyle": "PackageReference",

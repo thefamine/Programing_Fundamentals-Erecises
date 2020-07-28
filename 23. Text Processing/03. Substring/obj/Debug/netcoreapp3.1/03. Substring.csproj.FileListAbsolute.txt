@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\23. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb

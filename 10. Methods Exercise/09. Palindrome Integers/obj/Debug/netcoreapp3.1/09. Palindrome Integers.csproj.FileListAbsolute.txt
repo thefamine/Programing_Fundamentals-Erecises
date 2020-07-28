@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csprojAssemblyReference.cache

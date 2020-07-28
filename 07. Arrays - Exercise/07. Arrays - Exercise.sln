@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Train", "07. Arrays - Exercise\01. Train.csproj", "{B5990ACD-1340-4468-BDD9-8EE7C54CC646}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Common Elements", "02. Common Elements\02. Common Elements.csproj", "{DC0E14B9-A0C0-4575-9168-A473A41B18E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Common Elements", "02. Common Elements\02. Common Elements.csproj", "{DC0E14B9-A0C0-4575-9168-A473A41B18E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Zig-Zag Arrays", "03. Zig-Zag Arrays\03. Zig-Zag Arrays.csproj", "{5934D842-E171-493F-B695-8778151126FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Zig-Zag Arrays", "03. Zig-Zag Arrays\03. Zig-Zag Arrays.csproj", "{5934D842-E171-493F-B695-8778151126FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Array Rotation", "04. Array Rotation\04. Array Rotation.csproj", "{8641EA5A-84C6-48AF-94C1-D05E011606DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Array Rotation", "04. Array Rotation\04. Array Rotation.csproj", "{8641EA5A-84C6-48AF-94C1-D05E011606DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Top Integers", "05. Top Integers\05. Top Integers.csproj", "{1557BCFC-B22F-473D-BB73-9FE7DD87CE9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Top Integers", "05. Top Integers\05. Top Integers.csproj", "{1557BCFC-B22F-473D-BB73-9FE7DD87CE9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Equal Sum", "06. Equal Sum\06. Equal Sum.csproj", "{B69EC5DC-F9ED-4751-94AD-F6C981CD52D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Equal Sum", "06. Equal Sum\06. Equal Sum.csproj", "{B69EC5DC-F9ED-4751-94AD-F6C981CD52D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Max Sequence of Equal Elements", "07. Max Sequence of Equal Elements\07. Max Sequence of Equal Elements.csproj", "{0BE899D1-48DB-4060-9EB4-62430E0D09DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Max Sequence of Equal Elements", "07. Max Sequence of Equal Elements\07. Max Sequence of Equal Elements.csproj", "{0BE899D1-48DB-4060-9EB4-62430E0D09DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Magic Sum", "08. Magic Sum\08. Magic Sum.csproj", "{DBEA5FE0-14D5-4160-830E-17E65CAD4911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Magic Sum", "08. Magic Sum\08. Magic Sum.csproj", "{DBEA5FE0-14D5-4160-830E-17E65CAD4911}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Kamino Factory", "09. Kamino Factory (not included in final score)\09. Kamino Factory.csproj", "{68A757D4-A770-45C1-8ED7-5C714A5CB91B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Kamino Factory (not included in final score)", "09. Kamino Factory (not included in final score)\09. Kamino Factory (not included in final score).csproj", "{68A757D4-A770-45C1-8ED7-5C714A5CB91B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. LadyBugs", "10. LadyBugs (not included in final score)\10. LadyBugs.csproj", "{155F98C9-3647-425E-A40D-3B589E38C62C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. LadyBugs (not included in final score)", "10. LadyBugs (not included in final score)\10. LadyBugs (not included in final score).csproj", "{155F98C9-3647-425E-A40D-3B589E38C62C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Train", "01. Train\01. Train.csproj", "{009EE506-F714-48CC-B3D1-99383AE82453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Kamino Factory From exercise", "09. Kamino Factory (not included in final score) From exercise\09. Kamino Factory From exercise.csproj", "{4E9ADB10-01F0-4529-AAF6-0D311B3B4567}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +31,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B5990ACD-1340-4468-BDD9-8EE7C54CC646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5990ACD-1340-4468-BDD9-8EE7C54CC646}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5990ACD-1340-4468-BDD9-8EE7C54CC646}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5990ACD-1340-4468-BDD9-8EE7C54CC646}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DC0E14B9-A0C0-4575-9168-A473A41B18E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DC0E14B9-A0C0-4575-9168-A473A41B18E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC0E14B9-A0C0-4575-9168-A473A41B18E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +67,14 @@ Global
 		{155F98C9-3647-425E-A40D-3B589E38C62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{155F98C9-3647-425E-A40D-3B589E38C62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{155F98C9-3647-425E-A40D-3B589E38C62C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009EE506-F714-48CC-B3D1-99383AE82453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009EE506-F714-48CC-B3D1-99383AE82453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009EE506-F714-48CC-B3D1-99383AE82453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009EE506-F714-48CC-B3D1-99383AE82453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9ADB10-01F0-4529-AAF6-0D311B3B4567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9ADB10-01F0-4529-AAF6-0D311B3B4567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9ADB10-01F0-4529-AAF6-0D311B3B4567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9ADB10-01F0-4529-AAF6-0D311B3B4567}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

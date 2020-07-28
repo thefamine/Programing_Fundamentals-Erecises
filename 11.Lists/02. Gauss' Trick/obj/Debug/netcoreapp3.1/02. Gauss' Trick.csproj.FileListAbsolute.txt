@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.pdb

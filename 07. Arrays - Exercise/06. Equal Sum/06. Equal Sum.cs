@@ -9,7 +9,7 @@ using System.Linq;
 
 namespace _06._Equal_Sum
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {

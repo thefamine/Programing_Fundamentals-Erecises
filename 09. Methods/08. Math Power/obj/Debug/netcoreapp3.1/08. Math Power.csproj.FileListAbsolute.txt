@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\09. Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.pdb

@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.pdb

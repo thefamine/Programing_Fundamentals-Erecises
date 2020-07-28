@@ -1,0 +1,10 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\11.Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb

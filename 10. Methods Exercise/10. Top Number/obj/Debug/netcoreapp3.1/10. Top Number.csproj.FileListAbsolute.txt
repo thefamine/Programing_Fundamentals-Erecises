@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\10. Methods Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb

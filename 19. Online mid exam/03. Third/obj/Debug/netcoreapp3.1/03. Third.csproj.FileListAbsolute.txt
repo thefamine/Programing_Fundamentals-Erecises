@@ -1,0 +1,11 @@
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\bin\Debug\netcoreapp3.1\03. Third.exe
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\bin\Debug\netcoreapp3.1\03. Third.deps.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\bin\Debug\netcoreapp3.1\03. Third.runtimeconfig.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\bin\Debug\netcoreapp3.1\03. Third.runtimeconfig.dev.json
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\bin\Debug\netcoreapp3.1\03. Third.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\bin\Debug\netcoreapp3.1\03. Third.pdb
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\obj\Debug\netcoreapp3.1\03. Third.csprojAssemblyReference.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\obj\Debug\netcoreapp3.1\03. Third.AssemblyInfoInputs.cache
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\obj\Debug\netcoreapp3.1\03. Third.AssemblyInfo.cs
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\obj\Debug\netcoreapp3.1\03. Third.dll
+E:\Softuni\C# Fundamental\Programing Fundamentals Exercises\19. Online mid exam\03. Third\obj\Debug\netcoreapp3.1\03. Third.pdb

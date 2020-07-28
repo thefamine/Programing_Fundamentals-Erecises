@@ -1,0 +1,42 @@
+/*01. Create Table*/
+Create database softuni;
+use softuni;
+CREATE TABLE students (
+   id INT PRIMARY KEY AUTO_INCREMENT,
+   first_name VARCHAR(50) NULL,
+   last_name VARCHAR(50) NULL,
+   age INT NULL,
+   grade DOUBLE Null
+);
+
+/*02. Insert Data*/
+INSERT INTO `students`(`first_name`,`last_name`,`age`,`grade`)
+VALUES('Guy',	'Gilbert',	'15',	'4.5'),
+('Kevin',	'Brown',	'17',	'5.4'),
+('Roberto',	'Tamburello',	'19',	'6'),
+('Linda',	'Smith',	'18',	'5'),
+('John',	'Stones',	'16',	'4.25'),
+('Nicole',	'Nelson',	'17',	'5.50');
+
+/*03. Find All Records*/
+SELECT *FROM `students`;
+
+
+/*04. Find Last Name, Age and Grade*/
+SELECT `last_name`,`age`,`grade` FROM `students`;
+
+
+/*05. Find First 5 Records*/
+SELECT *FROM `students` LIMIT 5 ;
+
+
+/*06. Find First 5 Last Name and Grade*/
+SELECT `last_name`,`grade` FROM `students` limit 5;
+
+
+/*07. Truncate Table*/
+truncate table `students`;
+
+
+/*08. Drop Table*/
+drop table `students`;
