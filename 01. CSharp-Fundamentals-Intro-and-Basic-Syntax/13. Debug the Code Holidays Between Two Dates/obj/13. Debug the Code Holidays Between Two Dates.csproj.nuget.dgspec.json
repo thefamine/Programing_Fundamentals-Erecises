@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\13. Debug the Code Holidays Between Two Dates.csproj": {}
+    "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\13. Debug the Code Holidays Between Two Dates.csproj": {}
   },
   "projects": {
-    "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\13. Debug the Code Holidays Between Two Dates.csproj": {
+    "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\13. Debug the Code Holidays Between Two Dates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\13. Debug the Code Holidays Between Two Dates.csproj",
+        "projectUniqueName": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\13. Debug the Code Holidays Between Two Dates.csproj",
         "projectName": "13. Debug the Code Holidays Between Two Dates",
-        "projectPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\13. Debug the Code Holidays Between Two Dates.csproj",
+        "projectPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\13. Debug the Code Holidays Between Two Dates.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\obj\\",
+        "outputPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\13. Debug the Code Holidays Between Two Dates\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\06. Foreign Languages.csproj": {}
+    "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\06. Foreign Languages.csproj": {}
   },
   "projects": {
-    "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\06. Foreign Languages.csproj": {
+    "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\06. Foreign Languages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\06. Foreign Languages.csproj",
+        "projectUniqueName": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\06. Foreign Languages.csproj",
         "projectName": "06. Foreign Languages",
-        "projectPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\06. Foreign Languages.csproj",
+        "projectPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\06. Foreign Languages.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\obj\\",
+        "outputPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\6. Foreign Languages\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

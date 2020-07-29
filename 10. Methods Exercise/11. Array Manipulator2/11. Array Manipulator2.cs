@@ -44,6 +44,7 @@ Constraints
 
 using System;
 using System.Linq;
+using System.Text;
 
 namespace _11._Array_Manipulator2
 {
@@ -74,7 +75,7 @@ namespace _11._Array_Manipulator2
                 }
                 else if (command[0] == "exchange")
                 {
-                    if (int.Parse(command[1]) > input.Length)
+                    if ((int.Parse(command[1]) > input.Length-1)|| (int.Parse(command[1]) < 0))
                         Console.WriteLine("Invalid index");
                     else
                         Exchange(ref input, int.Parse(command[1]));
@@ -88,21 +89,29 @@ namespace _11._Array_Manipulator2
 
         static string MinMaxEvenOdd(int[] input, string MinMax, string EvenOdd)
         {
-            int counter = 0;
+            int counter = -1;
+            int MaxMinValue = 0;
+            int EvOd = 0;
 
-            int MaxMinValue = int.MinValue;
-            if (MinMax == "min")
+            if (MinMax == "max")
+            { MaxMinValue = int.MinValue; }
+            else if (MinMax == "min")
             { MaxMinValue = int.MaxValue; }
 
-            int EvOd = 0;
 
             if (EvenOdd == "odd")
             { EvOd = 1; }
+            else if (EvenOdd == "even")
+            { EvOd = 0; }
+
 
             for (int i = 0; i < input.Length; i++)
             {
-                if (((MinMax == "max") && (input[i] >= MaxMinValue) && (input[i] % 2 == EvOd)) ||
-                    ((MinMax == "min") && (input[i] <= MaxMinValue) && (input[i] % 2 == EvOd)))
+                if (
+                   (
+                   ((MinMax == "max") && (input[i] >= MaxMinValue)) || ((MinMax == "min") && (input[i] <= MaxMinValue))
+                   )
+                   && (input[i] % 2 == EvOd))
                 {
                     MaxMinValue = input[i];
                     counter = i;
@@ -110,29 +119,33 @@ namespace _11._Array_Manipulator2
             }
 
             string Output;
-            if (MaxMinValue == int.MinValue || MaxMinValue == int.MaxValue)
+            if (((MaxMinValue == int.MinValue)&&(MinMax == "max"))|| ((MaxMinValue == int.MaxValue) && (MinMax == "min")))
             { Output = "No matches"; }
             else
             { Output = counter.ToString(); }
+
             return Output;
         }
 
         static void FirstLastNEvenOdd(int[] input, string firstLast, int n, string EvenOdd)
         {
             int EvOd = 0;
+            StringBuilder NNumbers = new StringBuilder();
+            int counter = 0;
+
             if (EvenOdd == "odd")
             { EvOd = 1; }
+            else if (EvenOdd == "even")
+            { EvOd = 0; }
 
-            int[] NNumbers = new int[n];
 
-            int counter = 0;
             if (firstLast == "first")
             {
                 for (int i = 0; i < input.Length; i++)
                 {
                     if (input[i] % 2 == EvOd)
                     {
-                        NNumbers[counter] = input[i];
+                        NNumbers.Append(input[i]);
                         counter++;
                     }
                     if (counter == n)
@@ -141,41 +154,49 @@ namespace _11._Array_Manipulator2
             }
             else
             {
-                for (int i = 0; i < input.Length; i++)
+                for (int i = input.Length-1; i >=0; i--)
                 {
-                    if (input[input.Length-1-i] % 2 == EvOd)
+                    if (input[i] % 2 == EvOd)
                     {
-                        NNumbers[NNumbers.Length-1-counter] = input[input.Length-1-i];
+                        NNumbers.Append(input[i]);
                         counter++;
                     }
-                    if (counter == n )
+                    if (counter == n)
                     { break; }
                 }
+                
             }
 
+            int[] output = new int[NNumbers.Length];
+            for (int i = 0; i < NNumbers.Length; i++)
+            { output[i] = int.Parse(NNumbers[i].ToString());        }
+            if (firstLast == "last")
+            { Array.Reverse(output); }
 
-            if(counter==0)
+         
+            if (counter == 0)
                 Console.WriteLine("[]");
             else
-            Console.WriteLine($"[{String.Join(", ", NNumbers)}]");
-        }
-
-
+                Console.WriteLine($"[{String.Join(", ",output)}]");
+       }
 
         static void Exchange(ref int[] input, int index)
         {
-            int[] firstArray = new int[index+1];
+            input = input.Skip(index + 1).Concat(input.Take(index + 1)).ToArray();
+            
+
+           /* int[] firstArray = new int[index + 1];
             for (int i = 0; i < firstArray.Length; i++)
             { firstArray[i] = input[i]; }
 
-            int[] secondArray = new int[input.Length-firstArray.Length];
+            int[] secondArray = new int[input.Length - firstArray.Length];
             for (int i = 0; i < secondArray.Length; i++)
-            { secondArray[i] = input[firstArray.Length+i]; }
-       
+            { secondArray[i] = input[firstArray.Length + i]; }
+
             for (int i = 0; i < secondArray.Length; i++)
             { input[i] = secondArray[i]; }
             for (int i = 0; i < firstArray.Length; i++)
-            { input[secondArray.Length+i] = firstArray[i]; }
+            { input[secondArray.Length + i] = firstArray[i]; }*/
         }
 
     }

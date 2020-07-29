@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\04. Back in 30 Minutes.csproj": {}
+    "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\04. Back in 30 Minutes.csproj": {}
   },
   "projects": {
-    "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\04. Back in 30 Minutes.csproj": {
+    "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\04. Back in 30 Minutes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\04. Back in 30 Minutes.csproj",
+        "projectUniqueName": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\04. Back in 30 Minutes.csproj",
         "projectName": "04. Back in 30 Minutes",
-        "projectPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\04. Back in 30 Minutes.csproj",
+        "projectPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\04. Back in 30 Minutes.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\obj\\",
+        "outputPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\4. Back in 30 Minutes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

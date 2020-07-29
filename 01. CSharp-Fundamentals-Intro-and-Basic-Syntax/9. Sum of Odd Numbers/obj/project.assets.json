@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\9. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj",
+      "projectUniqueName": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\9. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj",
       "projectName": "09. Sum of Odd Numbers",
-      "projectPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\9. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj",
+      "projectPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\9. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\9. Sum of Odd Numbers\\obj\\",
+      "outputPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\9. Sum of Odd Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. Student Information.csproj": {}
+    "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. Student Information\\01. Student Information.csproj": {}
   },
   "projects": {
-    "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. Student Information.csproj": {
+    "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. Student Information\\01. Student Information.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. Student Information.csproj",
+        "projectUniqueName": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. Student Information\\01. Student Information.csproj",
         "projectName": "01. Student Information",
-        "projectPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. Student Information.csproj",
+        "projectPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. Student Information\\01. Student Information.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Softuni\\C# Fundamental\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\obj\\",
+        "outputPath": "E:\\Softuni\\C# Fundamental\\Programing Fundamentals Exercises\\01. CSharp-Fundamentals-Intro-and-Basic-Syntax\\01. Student Information\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
